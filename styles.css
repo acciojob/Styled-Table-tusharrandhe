@@ -1,1 +1,9 @@
 /* your code */
+thead{
+	background-color:blue;
+	
+}
+table{
+	border-style:none;
+	border-radius:20px;
+}
